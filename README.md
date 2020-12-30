@@ -2,13 +2,12 @@
 
 ## The Google Cloud Developer's Visual Notes
 Every product in the Google Cloud family described in the visual sketchnote format to grasp the capability of the tools quickly and easily.
-by the Google Developer Relations Team
 
 Pull requests are welcome on README.md (this file).
 
 <a target="_blank" href="/images/ComputeOptions.jpg"><img border="1" alt="Where should I run my stuff on Google Cloud" src="/images/ComputeOptions.jpg"></a>
 
-Feedback and suggestions? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@pvergadia](https://twitter.com/pvergadia). You can also check my blog - [https://thecloudgirl.dev](https://thecloudgirl.dev)
+Feedback and suggestions? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@pvergadia](https://twitter.com/pvergadia). You can also check my blog - [https://thecloudgirl.dev](https://thecloudgirl.dev) and my [Youtube Channel](https://bit.ly/theCloudGirl)
 
 **Note:** This project is a work in progress and this list only includes products that are publicly available. There are several products in pre-release/private-alpha that will not be included until they go public beta or GA.
 
