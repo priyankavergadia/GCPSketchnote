@@ -23,43 +23,36 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 | Topic  | Description | GCPSketchnote Video | GCPSketchnote Image | Other Links |
 | ------------- | ------------- |---|---|---|
-| **Compute** | | |  | |
-| ------------- | ------------- |---|---|---|
 | **Compute Options**  | Where should I run my stuff?  |[<img src="https://img.youtube.com/vi/hEK5SMzI_n4/sddefault.jpg" width="40%" >](https://www.youtube.com/watch?v=hEK5SMzI_n4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="ComputeOptions.jpg" width="60%" >](https://thecloudgirl.dev/gcpsketchnote1.html) |  |   
 | **Cloud Run**  | Serverless for containerized applications  | [<img src="https://img.youtube.com/vi/oR4btKLRdn4/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=oR4btKLRdn4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudRun.png" width="60%">](https://thecloudgirl.dev/CloudRun.html) | [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/) | 
 | **Cloud Functions**  | Event-driven serverless functions  | [<img src="https://img.youtube.com/vi/LTMChfWBHb0/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=LTMChfWBHb0&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudFunctions.png" width="60%">](https://thecloudgirl.dev/CloudFunctions.html) | [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/) | 
 | **Compute Engine**  | VMs, GPUs, TPUs, Disks  | [<img src="https://img.youtube.com/vi/s1LxRhjPJ7E/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=s1LxRhjPJ7E&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCE.jpg" width="60%">](https://thecloudgirl.dev/gcpsketchnote2.html) | [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/) | 
 | **Kubernetes Engine (GKE)**  | Managed Kubernetes/containers  | [<img src="https://img.youtube.com/vi/F8s-DAfMtRM/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=F8s-DAfMtRM&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GKE.jpg" width="60%">](https://thecloudgirl.dev/GKE.html) | [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/) |
 
-| **Migration to GCP** | | |  | |
-| ------------- | ------------- |---|---|---|
 | **Migration Journey**  | How to migrate to GCP  | [<img src="https://img.youtube.com/vi/ZDn6zIaBfas/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=ZDn6zIaBfas&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="MigrationJourney.jpg" width="60%">](https://thecloudgirl.dev/MigrationJourney.html) | [<sup>:link:</sup>](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-migration-made-easy) |
 | **Migration Use cases**  | Different migration use cases  | [<img src="https://img.youtube.com/vi/eWlQ-8AfDz4/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=eWlQ-8AfDz4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="MigrationCheatsheet.png" width="60%">](https://thecloudgirl.dev/MigrationCheatsheet.html) | [<sup>:link:</sup>](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-migration-made-easy) |
+
 | **Redshift to BigQuery**  | Migrate Redshift to BigQuery  | | [<img src="redshifttobq.jpg" width="60%">](https://thecloudgirl.dev/redshifttobq.html) | [<sup>:link:</sup>](https://cloud.google.com/bigquery-transfer/docs/redshift-migration) |
 
+| **Cloud Storage**  | Multi-class multi-region object storage  | [<img src="https://img.youtube.com/vi/BeYr34swAVE/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=BeYr34swAVE&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/CloudStorage.html) | [<sup>:link:</sup>](https://cloud.google.com/storage/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/) |
+  
+| **Cloud SQL**  | Managed MySQL, PostgreSQL, SQL Server  | [<img src="https://img.youtube.com/vi/nGwOPAqgX7U/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=nGwOPAqgX7U&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/gcpsketchnote3.html) | [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/) |
 
-### Storage
-  
-* **Cloud Storage**: Multi-class multi-region object storage[<sup>:link:</sup>](https://www.youtube.com/watch?v=BeYr34swAVE&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/CloudStorage.html)
-  
-### Database 
-  
-* **Cloud SQL**: Managed MySQL, PostgreSQL, SQL Server [<sup>:link:</sup>](https://www.youtube.com/watch?v=nGwOPAqgX7U&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/gcpsketchnote3.html)
-  
-### Data and Analytics 
-  
-* **How to build a scalable data anytics pipeline?**: 5 steps to build a data analytics pipeline in GCP [<sup>:link:</sup>](https://www.youtube.com/watch?v=iIxq9x8jBa8&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/analytics.html) [<sup>:page_facing_down:</sup>](https://www.freecodecamp.org/news/scalable-data-analytics-pipeline/)
-* **BigQuery**: Data warehouse/analytics [<sup>:link:</sup>](https://www.youtube.com/watch?v=So-tVyBQt8E&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/bigquery.html)
-* **Cloud Composer**: Managed workflow orchestration service [<sup>:link:</sup>](https://www.youtube.com/watch?v=BRQw064uaMg&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/Composer.html)
-* **Cloud Dataflow**: Stream/batch data processing [<sup>:link:</sup>](https://www.youtube.com/watch?v=WRspZRG9e90&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/dataflow.html)
-* **Cloud Dataproc**: Managed Spark and Hadoop [<sup>:link:</sup>](https://www.youtube.com/watch?v=32oJE-fSzm0&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/Dataproc.html/)
-* **Cloud Pub/Sub**: Global real-time messaging [<sup>:link:</sup>](https://www.youtube.com/watch?v=JrKEErlWvzA&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/pubsub.html)
-* **Pub/Sub Lite vs Pub/Sub**: Difference between Pub/Sub and Pub/Sub Lite [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/gcpsketchnote4.html)
+| **How to build a scalable data anytics pipeline?**  | 5 steps to build a data analytics pipeline in GCP  | [<img src="https://img.youtube.com/vi/iIxq9x8jBa8/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=iIxq9x8jBa8&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="analytics.png" width="60%">](https://thecloudgirl.dev/analytics.html) | [<sup>:link:</sup>](https://cloud.google.com/solutions/smart-analytics) [<sup>:page_facing_up:</sup>](https://cloud.google.com/solutions/smart-analytics/reference-patterns/overview) |
 
+| **BigQuery**  | Data warehouse/analytics  | [<img src="https://img.youtube.com/vi/So-tVyBQt8E/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=So-tVyBQt8E&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="BigQuery.jpg" width="60%">](https://thecloudgirl.dev/bigquery.html) | [<sup>:link:</sup>](https://cloud.google.com/bigquery) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs) |
 
-### AI/ML 
+| **Cloud Composer**  | Managed workflow orchestration service  | [<img src="https://img.youtube.com/vi/BRQw064uaMg/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=BRQw064uaMg&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/Composer.html) | [<sup>:link:</sup>](https://cloud.google.com/composer) [<sup>:page_facing_up:</sup>](https://cloud.google.com/composer/docs) |
 
-* **Contact Center AI**: AI in your contact center[<sup>:link:</sup>](https://www.youtube.com/watch?v=oGHa3hyMMsc&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/CCAI.html)
+| **Cloud Dataflow**  | Stream/batch data processing  | [<img src="https://img.youtube.com/vi/WRspZRG9e90/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=WRspZRG9e90&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/dataflow.html) | [<sup>:link:</sup>](https://cloud.google.com/dataflow) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataflow/docs) |
+
+| **Cloud Dataproc**  | Managed Spark and Hadoop  | [<img src="https://img.youtube.com/vi/32oJE-fSzm0/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=32oJE-fSzm0&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/Dataproc.html) | [<sup>:link:</sup>](https://cloud.google.com/dataproc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataproc/docs) |
+
+| **Cloud Pub/Sub**  | Global real-time messaging  | [<img src="https://img.youtube.com/vi/JrKEErlWvzA/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=JrKEErlWvzA&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/pubsub.html) | [<sup>:link:</sup>](https://cloud.google.com/pubsub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/pubsub/docs) |
+
+| **Pub/Sub Lite vs Pub/Sub**  | Difference between Pub/Sub and Pub/Sub Lite  | | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/gcpsketchnote4.html) | [<sup>:link:</sup>](https://cloud.google.com/pubsub/docs/choosing-pubsub-or-lite)|
+
+| **Contact Center AI**  | AI in your contact center  | [<img src="https://img.youtube.com/vi/oGHa3hyMMsc/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=oGHa3hyMMsc&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/CCAI.html) | [<sup>:link:</sup>](https://cloud.google.com/solutions/contact-center/) [<sup>:page_facing_up:</sup>](https://www.youtube.com/playlist?list=PLIivdWyY5sqK5SM34zbkitWLOV-b3V40B) |
 
 
 ### Networking 
