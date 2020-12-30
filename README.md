@@ -25,7 +25,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 | ------------- | ------------- |---|---|---|
 | **Compute Options**  | Where should I run my stuff?  |[<img src="https://img.youtube.com/vi/hEK5SMzI_n4/sddefault.jpg" width="40%" >](https://www.youtube.com/watch?v=hEK5SMzI_n4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="vs.jpg" width="60%" >](https://thecloudgirl.dev/gcpsketchnote1.html) |  |   
 | **Cloud Run**  | Serverless for containerized applications  | [<img src="https://img.youtube.com/vi/oR4btKLRdn4/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=oR4btKLRdn4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudRun.png" width="60%">](https://thecloudgirl.dev/CloudRun.html) | [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/) | 
-| **Cloud Functions**  | Event-driven serverless functions  | [<img src="https://img.youtube.com/vi/LTMChfWBHb0/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=LTMChfWBHb0&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudRun.png" width="60%">](https://thecloudgirl.dev/CloudFunctions.html) | [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/) | 
+| **Cloud Functions**  | Event-driven serverless functions  | [<img src="https://img.youtube.com/vi/LTMChfWBHb0/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=LTMChfWBHb0&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudFunctions.png" width="60%">](https://thecloudgirl.dev/CloudFunctions.html) | [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/) | 
 
 
 
