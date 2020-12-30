@@ -25,7 +25,9 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 | ------------- | ------------- |---|---|---|
 | **Compute Options**  | Where should I run my stuff?  |[<img src="https://img.youtube.com/vi/hEK5SMzI_n4/sddefault.jpg" width="40%" >](https://www.youtube.com/watch?v=hEK5SMzI_n4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="ComputeOptions.jpg" width="60%" >](https://thecloudgirl.dev/gcpsketchnote1.html) |  |   
 | **Cloud Run**  | Serverless for containerized applications  | [<img src="https://img.youtube.com/vi/oR4btKLRdn4/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=oR4btKLRdn4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudRun.png" width="60%">](https://thecloudgirl.dev/CloudRun.html) | [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/) | 
+
 | **Cloud Functions**  | Event-driven serverless functions  | [<img src="https://img.youtube.com/vi/LTMChfWBHb0/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=LTMChfWBHb0&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudFunctions.png" width="60%">](https://thecloudgirl.dev/CloudFunctions.html) | [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/) | 
+
 | **Compute Engine**  | VMs, GPUs, TPUs, Disks  | [<img src="https://img.youtube.com/vi/s1LxRhjPJ7E/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=s1LxRhjPJ7E&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCE.jpg" width="60%">](https://thecloudgirl.dev/gcpsketchnote2.html) | [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/) | 
 | **Kubernetes Engine (GKE)**  | Managed Kubernetes/containers  | [<img src="https://img.youtube.com/vi/F8s-DAfMtRM/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=F8s-DAfMtRM&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GKE.jpg" width="60%">](https://thecloudgirl.dev/GKE.html) | [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/) |
 
@@ -42,39 +44,31 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 | **BigQuery**  | Data warehouse/analytics  | [<img src="https://img.youtube.com/vi/So-tVyBQt8E/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=So-tVyBQt8E&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="BigQuery.jpg" width="60%">](https://thecloudgirl.dev/bigquery.html) | [<sup>:link:</sup>](https://cloud.google.com/bigquery) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs) |
 
-| **Cloud Composer**  | Managed workflow orchestration service  | [<img src="https://img.youtube.com/vi/BRQw064uaMg/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=BRQw064uaMg&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/Composer.html) | [<sup>:link:</sup>](https://cloud.google.com/composer) [<sup>:page_facing_up:</sup>](https://cloud.google.com/composer/docs) |
+| **Cloud Composer**  | Managed workflow orchestration service  | [<img src="https://img.youtube.com/vi/BRQw064uaMg/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=BRQw064uaMg&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="Composer.pdf" width="60%">](https://thecloudgirl.dev/Composer.html) | [<sup>:link:</sup>](https://cloud.google.com/composer) [<sup>:page_facing_up:</sup>](https://cloud.google.com/composer/docs) |
 
-| **Cloud Dataflow**  | Stream/batch data processing  | [<img src="https://img.youtube.com/vi/WRspZRG9e90/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=WRspZRG9e90&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/dataflow.html) | [<sup>:link:</sup>](https://cloud.google.com/dataflow) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataflow/docs) |
+| **Cloud Dataflow**  | Stream/batch data processing  | [<img src="https://img.youtube.com/vi/WRspZRG9e90/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=WRspZRG9e90&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="Dataflow.jpg" width="60%">](https://thecloudgirl.dev/dataflow.html) | [<sup>:link:</sup>](https://cloud.google.com/dataflow) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataflow/docs) |
 
-| **Cloud Dataproc**  | Managed Spark and Hadoop  | [<img src="https://img.youtube.com/vi/32oJE-fSzm0/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=32oJE-fSzm0&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/Dataproc.html) | [<sup>:link:</sup>](https://cloud.google.com/dataproc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataproc/docs) |
+| **Cloud Dataproc**  | Managed Spark and Hadoop  | [<img src="https://img.youtube.com/vi/32oJE-fSzm0/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=32oJE-fSzm0&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="Dataproc.jpg" width="60%">](https://thecloudgirl.dev/Dataproc.html) | [<sup>:link:</sup>](https://cloud.google.com/dataproc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataproc/docs) |
 
-| **Cloud Pub/Sub**  | Global real-time messaging  | [<img src="https://img.youtube.com/vi/JrKEErlWvzA/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=JrKEErlWvzA&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/pubsub.html) | [<sup>:link:</sup>](https://cloud.google.com/pubsub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/pubsub/docs) |
+| **Cloud Pub/Sub**  | Global real-time messaging  | [<img src="https://img.youtube.com/vi/JrKEErlWvzA/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=JrKEErlWvzA&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="pubsub.jpg" width="60%">](https://thecloudgirl.dev/pubsub.html) | [<sup>:link:</sup>](https://cloud.google.com/pubsub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/pubsub/docs) |
 
 | **Pub/Sub Lite vs Pub/Sub**  | Difference between Pub/Sub and Pub/Sub Lite  | | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/gcpsketchnote4.html) | [<sup>:link:</sup>](https://cloud.google.com/pubsub/docs/choosing-pubsub-or-lite)|
 
-| **Contact Center AI**  | AI in your contact center  | [<img src="https://img.youtube.com/vi/oGHa3hyMMsc/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=oGHa3hyMMsc&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCS.jpg" width="60%">](https://thecloudgirl.dev/CCAI.html) | [<sup>:link:</sup>](https://cloud.google.com/solutions/contact-center/) [<sup>:page_facing_up:</sup>](https://www.youtube.com/playlist?list=PLIivdWyY5sqK5SM34zbkitWLOV-b3V40B) |
+| **Contact Center AI**  | AI in your contact center  | [<img src="https://img.youtube.com/vi/oGHa3hyMMsc/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=oGHa3hyMMsc&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="ccai.jpg" width="60%">](https://thecloudgirl.dev/CCAI.html) | [<sup>:link:</sup>](https://cloud.google.com/solutions/contact-center/) [<sup>:page_facing_up:</sup>](https://www.youtube.com/playlist?list=PLIivdWyY5sqK5SM34zbkitWLOV-b3V40B) |
 
+| **Cloud Armor**  | DDoS protection and WAF  | [<img src="https://img.youtube.com/vi/w6Z5Ps0rXvk/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=w6Z5Ps0rXvk&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudArmor.png" width="60%">](https://thecloudgirl.dev/CloudArmor.html) | [<sup>:link:</sup>](https://cloud.google.com/armor/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/armor/docs/) |
 
-### Networking 
+| **Cloud CDN** | Content delivery network | [<img src="https://img.youtube.com/vi/EumuFAfTWJY/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=EumuFAfTWJY&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudCDN.jpg" width="60%">](https://thecloudgirl.dev/CDN.html) | [<sup>:link:</sup>](https://cloud.google.com/cdn/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/cdn/docs/) |
 
-* **Cloud Armor**: DDoS protection and WAF [<sup>:link:</sup>](hhttps://www.youtube.com/watch?v=w6Z5Ps0rXvk&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/CloudArmor.html)
-* **Cloud CDN**: Content delivery network [<sup>:link:</sup>](https://www.youtube.com/watch?v=EumuFAfTWJY&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/CDN.html)
-* **Cloud Load Balancing**: Multi-region load distribution/balancing [<sup>:link:</sup>](https://www.youtube.com/watch?v=0fQr7TRhnnU&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/CLB.html)
+| **Cloud Load Balancing** | Multi-region load distribution/balancing | [<img src="https://img.youtube.com/vi/0fQr7TRhnnU/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=0fQr7TRhnnU&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CLB.pdf" width="60%">](https://thecloudgirl.dev/CLB.html) | [<sup>:link:</sup>](https://cloud.google.com/load-balancing/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/load-balancing/docs/) |
 
+| **Cloud Data Loss Prevention API** | Classify and redact sensitive data | [<img src="https://img.youtube.com/vi/ab_Dctdu2G8/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=ab_Dctdu2G8&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="DLP.jpg" width="60%">](https://thecloudgirl.dev/dlp.html) | [<sup>:link:</sup>](https://cloud.google.com/dlp/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dlp/docs/) |
 
-### Identity and Security
+| **Cloud Build** | Continuous integration/delivery platform | [<img src="https://img.youtube.com/vi/Bvo6jzC3J_A/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=Bvo6jzC3J_A&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudBuild.jpg" width="60%">](https://thecloudgirl.dev/CloudBuild.html) | [<sup>:link:</sup>](https://cloud.google.com/cloud-build/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/cloud-build/docs/) |
 
-* **Cloud Data Loss Prevention API**: Classify and redact sensitive data [<sup>:link:</sup>](https://www.youtube.com/watch?v=ab_Dctdu2G8&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/dlp.html)
+| **Operations** | Monitoring, logging, troubleshooting | [<img src="https://img.youtube.com/vi/Y7L2y6NVa9Y/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=Y7L2y6NVa9Y&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudOps.jpg" width="60%">](https://thecloudgirl.dev/ops.html) | [<sup>:link:</sup>](https://cloud.google.com/products/operations) [<sup>:page_facing_up:</sup>](https://cloud.google.com/stackdriver/docs) |
 
+| **Next 2020 Summary Announcements** | Summary NEXT2020 | [<img src="https://img.youtube.com/vi/7OBTwoBZ404/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=7OBTwoBZ404&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="NEXT2020.jpg" width="60%">](https://thecloudgirl.dev/NEXT2020.html) | [<sup>:link:</sup>](https://cloud.google.com/blog/topics/google-cloud-next/complete-list-of-announcements-from-google-cloud-next20-onair)  |
 
-### Developer Tools  
-  
-* **Cloud Build**: Continuous integration/delivery platform [<sup>:link:</sup>](https://www.youtube.com/watch?v=Bvo6jzC3J_A&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/CloudBuild.html)
-* **Operations**: Monitoring, logging, troubleshooting [<sup>:link:</sup>](https://www.youtube.com/watch?v=Y7L2y6NVa9Y&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/ops.html)
-
-  
-### Miscellenious  
-  
-* **Next 2020 Summary Announcements**: Summary NEXT2020 [<sup>:link:</sup>](https://www.youtube.com/watch?v=7OBTwoBZ404&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/NEXT2020.html)
 
 
