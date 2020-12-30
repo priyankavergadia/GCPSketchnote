@@ -23,7 +23,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 | Topic  | Description | GCPSketchnote Video | GCPSketchnote Image | Docs | Product |
 | ------------- | ------------- |---|---|---|---|
-| **Compute Options**  | Where should I run my stuff?  |[<img src="https://img.youtube.com/vi/hEK5SMzI_n4/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=hEK5SMzI_n4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd)
+| **Compute Options**  | Where should I run my stuff?  |[<img src="https://j.gifs.com/6X3N7l.gif" width="50%">](https://www.youtube.com/watch?v=hEK5SMzI_n4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd)
  | [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/gcpsketchnote1.html) | <a target="_blank" href="vs.jpg"><img border="1" alt="Where should I run my stuff on Google Cloud" src="vs.jpg"></a>   | |
 | **Cloud Run**  | Serverless for containerized applications  | [<sup>:link:</sup>](https://www.youtube.com/watch?v=oR4btKLRdn4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/CloudRun.html) | [<sup>:link:</sup>](https://cloud.google.com/run/) | [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
 
