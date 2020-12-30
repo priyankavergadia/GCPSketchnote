@@ -6,7 +6,7 @@ by the Google Developer Relations Team
 
 Pull requests are welcome on README.md (this file).
 
-<a target="_blank" href="vs.jpg"><img border="1" alt="Where should I run my stuff on Google Cloud" src="vs.jpg"></a>
+<a target="_blank" href="ComputeOptions.jpg"><img border="1" alt="Where should I run my stuff on Google Cloud" src="ComputeOptions.jpg"></a>
 
 Feedback and suggestions? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@pvergadia](https://twitter.com/pvergadia). You can also check my blog - [https://thecloudgirl.dev](https://thecloudgirl.dev)
 
@@ -23,23 +23,19 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 | Topic  | Description | GCPSketchnote Video | GCPSketchnote Image | Other Links |
 | ------------- | ------------- |---|---|---|
-| **Compute Options**  | Where should I run my stuff?  |[<img src="https://img.youtube.com/vi/hEK5SMzI_n4/sddefault.jpg" width="40%" >](https://www.youtube.com/watch?v=hEK5SMzI_n4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="vs.jpg" width="60%" >](https://thecloudgirl.dev/gcpsketchnote1.html) |  |   
+| **Compute** | | |  | |
+| ------------- | ------------- |---|---|---|
+| **Compute Options**  | Where should I run my stuff?  |[<img src="https://img.youtube.com/vi/hEK5SMzI_n4/sddefault.jpg" width="40%" >](https://www.youtube.com/watch?v=hEK5SMzI_n4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="ComputeOptions.jpg" width="60%" >](https://thecloudgirl.dev/gcpsketchnote1.html) |  |   
 | **Cloud Run**  | Serverless for containerized applications  | [<img src="https://img.youtube.com/vi/oR4btKLRdn4/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=oR4btKLRdn4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudRun.png" width="60%">](https://thecloudgirl.dev/CloudRun.html) | [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/) | 
 | **Cloud Functions**  | Event-driven serverless functions  | [<img src="https://img.youtube.com/vi/LTMChfWBHb0/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=LTMChfWBHb0&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudFunctions.png" width="60%">](https://thecloudgirl.dev/CloudFunctions.html) | [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/) | 
 | **Compute Engine**  | VMs, GPUs, TPUs, Disks  | [<img src="https://img.youtube.com/vi/s1LxRhjPJ7E/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=s1LxRhjPJ7E&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GCE.jpg" width="60%">](https://thecloudgirl.dev/gcpsketchnote2.html) | [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/) | 
 | **Kubernetes Engine (GKE)**  | Managed Kubernetes/containers  | [<img src="https://img.youtube.com/vi/F8s-DAfMtRM/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=F8s-DAfMtRM&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="GKE.jpg" width="60%">](https://thecloudgirl.dev/GKE.html) | [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/) |
 
-
-
-
-### Compute
-
-
-### Migration to GCP  
-  
-* **Migration Journey**: [<sup>:link:</sup>](https://www.youtube.com/watch?v=ZDn6zIaBfas&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/MigrationJourney.html)[<sup>:page_facing_down:</sup>](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-migration-made-easy)
-* **Migration Use cases**: Bulk import analytics data [<sup>:link:</sup>](https://www.youtube.com/watch?v=eWlQ-8AfDz4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/MigrationCheatsheet.html)[<sup>:page_facing_down:</sup>](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-migration-made-easy)
-* **Redshift to BigQuery**: Bulk import analytics data[<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/redshifttobq.html)
+| **Migration to GCP** | | |  | |
+| ------------- | ------------- |---|---|---|
+| **Migration Journey**  | How to migrate to GCP  | [<img src="https://img.youtube.com/vi/ZDn6zIaBfas/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=ZDn6zIaBfas&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="MigrationJourney.jpg" width="60%">](https://thecloudgirl.dev/MigrationJourney.html) | [<sup>:link:</sup>](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-migration-made-easy) |
+| **Migration Use cases**  | Different migration use cases  | [<img src="https://img.youtube.com/vi/eWlQ-8AfDz4/sddefault.jpg" width="40%">](https://www.youtube.com/watch?v=eWlQ-8AfDz4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="MigrationCheatsheet.png" width="60%">](https://thecloudgirl.dev/MigrationCheatsheet.html) | [<sup>:link:</sup>](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-migration-made-easy) |
+| **Redshift to BigQuery**  | Migrate Redshift to BigQuery  | | [<img src="redshifttobq.jpg" width="60%">](https://thecloudgirl.dev/redshifttobq.html) | [<sup>:link:</sup>](https://cloud.google.com/bigquery-transfer/docs/redshift-migration) |
 
 
 ### Storage
