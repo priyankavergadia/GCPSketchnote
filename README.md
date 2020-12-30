@@ -23,8 +23,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 | Topic  | Description | GCPSketchnote Video | GCPSketchnote Image | Docs | Product |
 | ------------- | ------------- |---|---|---|---|
-| **Compute Options**  | Where should I run my stuff?  |[<img src="https://img.youtube.com/vi/hEK5SMzI_n4/sddefault.jpg" width="50%" >](https://www.youtube.com/watch?v=hEK5SMzI_n4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="vs.jpg" >](https://thecloudgirl.dev/gcpsketchnote1.html) |  |   |
-| **Cloud Run**  | Serverless for containerized applications  | [<img src=https://img.youtube.com/vi/oR4btKLRdn4/sddefault.jpg" width="50%">](https://www.youtube.com/watch?v=oR4btKLRdn4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudRun.png">](https://thecloudgirl.dev/CloudRun.html) | [<sup>:link:</sup>](https://cloud.google.com/run/) | [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
+| **Compute Options**  | Where should I run my stuff?  |[<img src="https://img.youtube.com/vi/hEK5SMzI_n4/sddefault.jpg" width="30%" >](https://www.youtube.com/watch?v=hEK5SMzI_n4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="vs.jpg" >](https://thecloudgirl.dev/gcpsketchnote1.html) |  |   |
+| **Cloud Run**  | Serverless for containerized applications  | [<img src="https://img.youtube.com/vi/oR4btKLRdn4/sddefault.jpg" width="30%">](https://www.youtube.com/watch?v=oR4btKLRdn4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="CloudRun.png">](https://thecloudgirl.dev/CloudRun.html) | [<sup>:link:</sup>](https://cloud.google.com/run/) | [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
 
 
 ### Compute
