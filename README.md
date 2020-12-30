@@ -20,6 +20,13 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 <sup>:page_facing_up:-Image</sup>
 <sup>:page_facing_down:-Blog</sup>
 
+
+| Topic  | Description | GCPSketchnote Video | GCPSketchnote Image | Docs | Product |
+| ------------- | ------------- |---|---|---|---|
+| **Which compute option is right for you?**  | Where should I run my stuff?  |[<sup>:link:</sup>](https://www.youtube.com/watch?v=hEK5SMzI_n4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/gcpsketchnote1.html) |    | |
+| **Cloud Run**  | Serverless for containerized applications  | [<sup>:link:</sup>](https://www.youtube.com/watch?v=oR4btKLRdn4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/CloudRun.html) | [<sup>:link:</sup>](https://cloud.google.com/run/) | [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
+
+
 ### Compute
 
 * **Which compute option is right for you?**: Where should I run my stuff? [<sup>:link:</sup>](https://www.youtube.com/watch?v=hEK5SMzI_n4&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) [<sup>:page_facing_up:</sup>](https://thecloudgirl.dev/gcpsketchnote1.html)
