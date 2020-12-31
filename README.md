@@ -15,8 +15,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 ----------------------------
 # All GCP Sketchnotes
-<sup>:link:-Youtube Video</sup>
-<sup>:page_facing_up:-Image</sup>
+<sup>:link:-Product Page</sup>
+<sup>:page_facing_up:-Documentation</sup>
 
 | Topic  | Description | GCPSketchnote Video | GCPSketchnote Image | Other Links |
 | ------ | ----------- |---------------------|-----------|---|
