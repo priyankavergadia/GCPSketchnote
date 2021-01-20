@@ -46,6 +46,3 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 | **Redshift to BigQuery**  | Migrate Redshift to BigQuery  | | [<img src="/images/redshifttobq.jpeg" width=1100>](https://thecloudgirl.dev/redshifttobq.html) | [<sup>:link:</sup>](https://cloud.google.com/bigquery-transfer/docs/redshift-migration) |
 | **Pub/Sub Lite vs Pub/Sub**  | Difference between Pub/Sub and Pub/Sub Lite  | | [<img src="/images/pubsubvslite.png" width=1100>](https://thecloudgirl.dev/gcpsketchnote4.html) | [<sup>:link:</sup>](https://cloud.google.com/pubsub/docs/choosing-pubsub-or-lite)|
 | **Anthos** | How Anthos makes it easy to deploy/manage hybrid and multicloud infrasturture and apps | [<img src="https://img.youtube.com/vi/FfJNAjoX3Uc/sddefault.jpg" width=200>](https://www.youtube.com/watch?v=FfJNAjoX3Uc&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="/images/Anthos.jpg" width=1100>](https://thecloudgirl.dev/Anthos.html) | [<sup>:link:</sup>](https://cloud.google.com/products/anthos) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs) |
-
-
-
