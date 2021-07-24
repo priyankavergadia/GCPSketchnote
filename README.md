@@ -56,3 +56,13 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 | **Cloud Bigtable**  | [How BIG is Cloud Bigtable?](https://goo.gle/2TV3hWY)  | [<img src="https://img.youtube.com/vi/Ms_GwMgojlk/sddefault.jpg" width=200>](https://www.youtube.com/watch?v=Ms_GwMgojlk&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="/images/Bigtable.jpg" width=1100>](https://thecloudgirl.dev/Bigtable.html) | [<sup>:link:</sup>](https://goo.gle/3pQJT9A) [<sup>:page_facing_up:</sup>](https://goo.gle/3xbkgmm) |
 | **Cloud Spanner**  | [What is Cloud Spanner?](https://goo.gle/3zmQMnj)  | [<img src="https://img.youtube.com/vi/lt9bOxlsKs4/sddefault.jpg" width=200>](https://www.youtube.com/watch?v=lt9bOxlsKs4list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="/images/Spanner.jpg" width=1100>](https://thecloudgirl.dev/spanner.html) | [<sup>:link:</sup>](https://goo.gle/3xkcXJ3) [<sup>:page_facing_up:</sup>](https://goo.gle/3gmC88a) |
 
+
+----------------------------
+# License
+
+Published under [Creative Commons Attribution 4.0 International Public License](LICENSE) 
+
+That means you are free to:
+**Share** — copy and redistribute the material in any medium or format
+**Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
