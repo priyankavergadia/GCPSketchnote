@@ -8,7 +8,7 @@ Pull requests are welcome on README.md (this file).
 ## Your favorite GCP Sketchnote are now coming in a BOOK PRE-ORDER NOW!
 <a target="_blank" href="/images/book.png"><img border="1" alt="Visualizing Google Cloud: 101 Illustrated References for Cloud Engineers and Architects" src="/images/book.png"></a>
 
-<a target="_blank" href="/images/ComputeOptions.jpg"><img border="1" alt="Where should I run my stuff on Google Cloud" src="/images/ComputeOptions.jpg"></a>
+<!--- <a target="_blank" href="/images/ComputeOptions.jpg"><img border="1" alt="Where should I run my stuff on Google Cloud" src="/images/ComputeOptions.jpg"></a> --->
 
 Feedback and suggestions? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@pvergadia](https://twitter.com/pvergadia). You can also check my blog - [https://thecloudgirl.dev](https://thecloudgirl.dev) and my [Youtube Channel](https://bit.ly/theCloudGirl)
 
